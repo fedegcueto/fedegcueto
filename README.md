@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @fedegcueto
+- 👀 I’m interested in deep learning, game development, web desing
+- 🌱 I’m currently learning c++ in unity and unreal engine. JavaScript, PHP, Python
+- 📫 How to reach me fedegcueto@gmail.com @fedecueto
